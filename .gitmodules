@@ -1,0 +1,3 @@
+[submodule "submodulo-InterfazTabla"]
+	path = submodulo-InterfazTabla
+	url = https://github.com/HenryLudena/InterfazTablaSQLite.git
